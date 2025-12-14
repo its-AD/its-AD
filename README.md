@@ -19,7 +19,7 @@ BSc in Artificial Intelligence student at Cambridge passionate about **applying 
 🎯 **Current Focus:** Building production-ready AI systems for interventional cardiology and radiation safety  
 🌍 **Location:** Cambridge, UK  
 💡 **Mission:** Democratizing AI-powered healthcare tools for better patient outcomes  
-🔬 **Experience:** 17,000+ lines of production ML code across 3 major healthcare AI projects
+🔬 **Experience:** 17,000+ lines of production ML code
 
 ---
 
@@ -166,9 +166,8 @@ expertise = {
         "Model Monitoring & A/B Testing"
     ]
 }
-```
 
----
+```
 
 ### 📈 GitHub Stats
 
