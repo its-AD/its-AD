@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adil
 
-## 🤖 AI Engineer | Medical AI Specialist | Deep Learning Practitioner
+## 🤖 AI Engineer | Medical AI Specialist 
 
 <div align="center">
   
